@@ -2,3 +2,7 @@
 
 
 SOME TEXT
+
+##local Dev
+
+1. open readme.md
